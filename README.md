@@ -59,11 +59,11 @@ AI tools are part of my development workflow. I define the goal, review generate
 
 ---
 
-### 03 / GitHub activity
+## 03 / GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mcbottm&theme=github-compact&hide_border=true&bg_color=0D1726&color=9FC9F8&line=338DE8&point=FFFFFF&area=true" alt="MCBOT GitHub activity graph" width="100%" />
+![MCBOT GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcbottm&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
