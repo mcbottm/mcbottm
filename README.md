@@ -11,7 +11,7 @@
 
 ## Security-minded. Built to be useful.
 
-I'm **Andika**, known online as **MC•BOT™** (`@mcbottm`). I'm a Computer and Network Engineering (TKJ) student in Indonesia, focused on **networking, cybersecurity, software tools, and open source**.
+I'm **MC•BOT™** (`@mcbottm`). I'm a Computer and Network Engineering (TKJ) student in Indonesia, focused on **networking, cybersecurity, software tools, and open source**.
 
 I build practical projects, test them in the environments available to me, and document their current state clearly.
 
